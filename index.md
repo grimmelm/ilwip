@@ -1,4 +1,4 @@
-# Internet Law Works in Progress 2026 #
+# 2026 Schedule #
 
 Saturday, March 7  
 
