@@ -1,10 +1,11 @@
 # Internet Law Works in Progress 2026 #
 
 Saturday, March 7  
-Cornell Tech  
-New York, NY
 
-All events will take place in the Verizon Executive Education Center.
+Verizon Executive Education Center  
+Cornell Tech  
+2 West Loop Road  
+New York, NY 10044  
 
 **8:30 to 9:00: Welcome**
 
