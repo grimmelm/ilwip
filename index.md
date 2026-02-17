@@ -57,7 +57,7 @@ Refreshments available in the second floor gallery
 | Reid        | Sprigman        | Chen    | J. Bambauer         |
 | Del Campo     | Gur-Arieh        | Ma    | Miers   |
 | Gellis    | Catanzaro      | Bateyko        | Jonathan        |
-| Goodyear  | Avery        |      | Wang   | Bietti |
+| Goodyear  | Avery        |      Wang   | Bietti |
 
 **5:00 to 6:00: Dinner**
 
