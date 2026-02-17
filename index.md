@@ -9,9 +9,6 @@ New York, NY 10044
 
 All presenters will have a 20 minute block for their presentation and questions _combined_. The timekeeper will provide 3-minute and 1-minute warnings for the overall block. The timekeeper will provide 3-minute and 1-minute warnings for the end of a recommended 13-minute presentation time, unless you request otherwise. The end of the recommended presentation time will not be strictly enforced, but the end of the 20-minute block will.
 
-We have done our best to combine related presentations into sessions and to avoid conflicts between similar presentations, but given the enormous interest in presenting, some overlaps and odd juxtapositions were necessary. If you have a conflict with your assigned slot, please contact the organizers ASAP.
-
-
 ## Schedule ##
 
 **8:30 to 9:00: Welcome**
