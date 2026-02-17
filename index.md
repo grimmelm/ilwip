@@ -16,7 +16,7 @@ Breakfast available in the second floor gallery
 |--------------|--------------|--------------|--------------|
 | Sobel        | Zhang        | Hoofnagle    | Wang         |
 | LaFrance     | Green        | Ferracane    | Tantratian   |
-| Z. Cooper    | Bietti       | Khan         | Lloyd        |
+| Z. Cooper    |  Coleman      | Khan         | Lloyd        |
 | D. Bambauer  | Forer        | Hussein      | Huddleston   |
 
 **10:30 to 11:00: Break**
@@ -31,7 +31,7 @@ Refreshments available in the second floor gallery
 | Goldman     | Angel        | Blitz    |  Wei  |
 | Gal    | Shur-Ofry       | Kshirsagar         | Pfefferkorn        |
 | Fidler  | Benthall        | Greenberg      | Manta   |
-| Krishnamurthi  | Coleman        | Gunn      |    |
+| Krishnamurthi  |         | Gunn      |    |
 
 **12:45 to 1:30: Lunch**
 
@@ -57,7 +57,7 @@ Refreshments available in the second floor gallery
 | Reid        | Sprigman        | Chen    | J. Bambauer         |
 | Del Campo     | Gur-Arieh        | Ma    | Miers   |
 | Gellis    | Catanzaro      | Bateyko        | Jonathan        |
-| Goodyear  | Avery        |      | Wang   |
+| Goodyear  | Avery        |      | Wang   | Bietti |
 
 **5:00 to 6:00: Dinner**
 
