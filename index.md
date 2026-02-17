@@ -39,7 +39,7 @@ Refreshments available in the second floor gallery
 | Goldman     | Angel        | Blitz    |  Wei  |
 | Gal    | Shur-Ofry       | Kshirsagar         | Pfefferkorn        |
 | Fidler  | Benthall        | Greenberg      | Manta   |
-| Krishnamurthi  |         | Gunn      |    |
+| Krishnamurthi  |         | Jiravuttipong      |    |
 
 **12:45 to 1:30: Lunch**
 
