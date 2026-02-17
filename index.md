@@ -25,13 +25,13 @@ Refreshments available in the second floor gallery
 
 **11:00 to 12:45: Session 2**
 
-| Game Theory and Jurisdiction <br/> Room 215 | AI Regulation II <br/> Room 225 | Speech and Data <br/> Room 315 | Families and Children <br/> Room 325 |
+| Game Theory  <br/> Room 215 | AI Regulation II <br/> Room 225 | Speech and Data <br/> Room 315 | Families and Children <br/> Room 325 |
 |--------------|--------------|--------------|--------------|
 | Kenney        | Silbey        | Penney    | Matwyshyn         |
-| Goldman     | Angel        | Blitz    | Levine   |
+| Goldman     | Angel        | Blitz    |  Wei  |
 | Gal    | Shur-Ofry       | Kshirsagar         | Pfefferkorn        |
 | Fidler  | Benthall        | Greenberg      | Manta   |
-| Krishnamurthi  | Coleman        | Gunn      | Wei   |
+| Krishnamurthi  | Coleman        | Gunn      |    |
 
 **12:45 to 1:30: Lunch**
 
@@ -43,6 +43,26 @@ Lunch available in the second floor gallery
 |--------------|--------------|--------------|--------------|
 | Roberts        | Badii        | Nielsen    | Grochowski         |
 | Dorsen     | Reinfeld        | Liu    | Adams   |
-| Geddes    | Shur-Ofry       | de Alfaro         | Mo        |
-| Sharmin  | Barocas        | Schwartz-Maor      | Monteiro   |
+| Geddes    | Barocas       | de Alfaro         | Mo        |
+| Sharmin  | Levine     | Schwartz-Maor      | Monteiro   |
 
+**3:00 to 3:30: Break**
+
+Refreshments available in the second floor gallery
+
+**3:30 to 5:00: Session 4**
+
+| Intermediaries <br/> Room 215 | AI Theory <br/> Room 225 | Empirical Studies <br/> Room 315 | AI Liability <br/> Room 325 |
+|--------------|--------------|--------------|--------------|
+| Reid        | Sprigman        | Chen    | J. Bambauer         |
+| Del Campo     | Gur-Arieh        | Ma    | Miers   |
+| Gellis    | Catanzaro      | Bateyko        | Jonathan        |
+| Goodyear  | Avery        |      | Wang   |
+
+**5:00 to 6:00: Dinner**
+
+Dinner available in the second floor gallery
+
+**6:00 to 9:00: Game Night**
+
+Games and \[REDACTED\] in the second floor gallery.
