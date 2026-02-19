@@ -19,10 +19,10 @@ Breakfast available in the second floor gallery
 
 | Copyright and Patent <br/> Room 215 | AI Regulation I <br/> Room 225 | Cybersecurity and Data <br/> Room 315 | Privacy I <br/> Room 325 |
 |--------------|--------------|--------------|--------------|
-| Sobel        | Zhang        | Hoofnagle    | Wang         |
-| LaFrance     | Green        | Ferracane    | Tantratian   |
-| Z. Cooper    |  Coleman      | Khan         | Lloyd        |
-| D. Bambauer  | Forer        | Hussein      | Huddleston   |
+| Sobel        |   Green      | Hoofnagle    | Wang         |
+| LaFrance     |    Coleman     | Ferracane    | Tantratian   |
+| Z. Cooper    |  Forer      | Khan         | Lloyd        |
+| D. Bambauer  |         | Hussein      | Huddleston   |
 
 **10:30 to 11:00: Break**
 
@@ -36,7 +36,7 @@ Refreshments available in the second floor gallery
 | Goldman     | Angel        | Blitz    |  Wei  |
 | Gal    | Shur-Ofry       | Kshirsagar         | Pfefferkorn        |
 | Fidler  | Benthall        | Greenberg      | Manta   |
-| Krishnamurthi  |         | Jiravuttipong      |    |
+| Krishnamurthi  | Zhang        | Jiravuttipong      |    |
 
 **12:45 to 1:30: Lunch**
 
