@@ -28,7 +28,8 @@ Breakfast available in the second floor gallery
 * Ben	Green, _The Limits of Auditing Frameworks for Public Sector Algorithms: A Case Study of the Michigan Integrated Data Automated System (MiDAS)_
 * Ronald J.	Coleman, _Dignitary AI Confrontation in the States_
 * Gal	Forer, _Generative AI Regulation in China and California_
-* Angela Zhang, _Advantages of the Disavantages: How Overcapacity Helps China Set Global Standards in Artificial Intelligence_
+* Jane 	Bambauer, _Using LLMs to Score News and Opinion Media Based on Their Past Predictions_
+
 
 **Room 315: Cybersecurity and Data**
 * Chris	Hoofnagle, _The EU’s Cybersecurity Framework: what it is, what it means_
@@ -75,37 +76,70 @@ Refreshments available in the second floor gallery
 * Irina	Manta, _Swipe Left: How Dating Apps Betray Users and Protect Predators_
 * Riana	Pfefferkorn, _Advanced Persistent Teenagers_
 
-**12:45 to 1:30: Lunch**
+### 12:45 to 1:30: Lunch ###
 
 Lunch available in the second floor gallery
 
-**1:30 to 3:00: Session 3**
+### 1:30 to 3:00: Session 3 ###
 
-| People and Publicity <br/> Room 215 | AI Regulation III <br/> Room 225 | NLP <br/> Room 315 | Privacy II <br/> Room 325 |
-|--------------|--------------|--------------|--------------|
-| Roberts        | Badii        | Nielsen    | Grochowski         |
-| Dorsen     | Reinfeld        | Liu    | Adams   |
-| Geddes    | Barocas       |   Schwartz-Maor       | Mo        |
-|   | Levine     |     | Monteiro   |
+**Room 215: People and Publicity**
+* Annie	Dorsen, _TBD_
+* Alex	Roberts, _Litigating Personal Brand:  Intellectual Property & the Construction of Self_
+* Kat	Geddes, _Runaway Replicas_
 
-**3:00 to 3:30: Break**
+**Room 225: AI Regulation III**
+* Farzaneh	Badii, _Internet-Enabled AI and the Rewriting of End-User Access_
+* Yuval	Reinfeld, _From Explainability to Accountability: Rethinking Rights in AI-Driven Decisions_
+* Solon	Barocas, _Informal Algorithms: On the Use of Generative AI for High-Stakes Decision Making_
+* David	Levine, _Trade Secrets with Secrets_
+
+**Room 315: NLP**
+* Brandon	Liu, _Hallucite: Detecting AI-Generated Legal Citations_
+* Aileen	Nielsen, _Distinguishing Statutory Language Diffusion from Policy Diffusion: A Case Study of Recent State Data Privacy Reform_
+* Talia	Schwartz-Maor, _Predicting Successful Online Divorce Negotiations via Text Analysis_
+
+**Room 325: Privacy II**
+* Rhiannon	Adams, _Remedying Abusive Surveillance_
+* Mateusz 	Grochowski, _Inverse Commodification: Consent as Currency_
+* Yunfan	Mo, _Eroding boundaries? Withering informational self-determination under the GDPR: perspectives from AI model training_
+* Artur Pericles L.	Monteiro, _Democratic Friction_
+
+
+### 3:00 to 3:30: Break ###
 
 Refreshments available in the second floor gallery
 
-**3:30 to 5:00: Session 4**
+### 3:30 to 5:00: Session 4 ###
 
-| Intermediaries <br/> Room 215 | AI Theory <br/> Room 225 | Empirical Studies <br/> Room 315 | AI Liability <br/> Room 325 |
-|--------------|--------------|--------------|--------------|
-| Reid        | Sprigman        | Chen    |     Miers    |
-| Del Campo     | Gur-Arieh        | Ma    | Cedarbaum   |
-| Gellis    | Catanzaro      | Bateyko        |    Bietti     |
-| Goodyear  |         |      Wang   |  |
+**Room 215: Intermediaries**
+* Amanda	Reid, _New Digital Divides: How State Regulations Create Digital Exclusion_
+* Agustina	Del Campo, _An alternative to risks and immunity as the only 2 forms of intermediary liability_
+* Cathy	Gellis, _Jawboning without Section 230_
+* Michael	Goodyear, _Protecting the Queer Internet_
 
-**5:00 to 6:00: Dinner**
+**Room 225: AI Theory**
+* Zachary	Catanzaro, _Generative Simulation_
+* Shira	Gur-Arieh, _Ambiguity Collapse in Legal Contexts_
+* Chris	Sprigman, _Strategic Delegation of Moral Decisions to AI_
+  Angela Zhang, _Advantages of the Disavantages: How Overcapacity Helps China Set Global Standards in Artificial Intelligence_
+	
+**Room 315: Empirical Studies**
+* Felix	Chen, _Measuring the Impact of Google AI Overviews and WebGuide on User Search Behavior_
+* Ada	Wang, _Internet Mass Tort in the Age of AI_
+* Dan	Bateyko, _TBD_
+* Qin Sky	Ma, _The Dual Impact of AI on Judicial Efficiency_
+
+**Room 325: AI Liability**
+* Jonathan	Cedarbaum, _Does Product Liability Offer a Route Around Section 230?_
+* Jess	Miers, _Crisis Machines_
+* Elettra	Bietti, _Imperfect Enforcement in AI Markets_
+
+
+ ### 5:00 to 6:00: Dinner ###
 
 Dinner available in the second floor gallery
 
-**6:00 to 9:00: Game Night**
+### 6:00 to 9:00: Game Night ###
 
 Games and \[REDACTED\] in the second floor gallery.
 
