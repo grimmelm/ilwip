@@ -135,7 +135,7 @@ Refreshments available in the second floor gallery
 * Elettra	Bietti, _Imperfect Enforcement in AI Markets_
 
 
- ### 5:00 to 6:00: Dinner ###
+### 5:00 to 6:00: Dinner ###
 
 Dinner available in the second floor gallery
 
