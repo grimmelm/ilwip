@@ -22,7 +22,7 @@ Breakfast available in the second floor gallery
 | Sobel        |   Green      | Hoofnagle    | Wang         |
 | LaFrance     |    Coleman     | Ferracane    | Tantratian   |
 | Z. Cooper    |  Forer      | Khan         | Lloyd        |
-| D. Bambauer  |         | Hussein      | Huddleston   |
+| D. Bambauer  |  J. Bambauer  | Hussein      | Huddleston   |
 
 **10:30 to 11:00: Break**
 
@@ -59,10 +59,10 @@ Refreshments available in the second floor gallery
 
 | Intermediaries <br/> Room 215 | AI Theory <br/> Room 225 | Empirical Studies <br/> Room 315 | AI Liability <br/> Room 325 |
 |--------------|--------------|--------------|--------------|
-| Reid        | Sprigman        | Chen    | J. Bambauer         |
-| Del Campo     | Gur-Arieh        | Ma    | Miers   |
-| Gellis    | Catanzaro      | Bateyko        | Cedarbaum        |
-| Goodyear  |         |      Wang   | Bietti |
+| Reid        | Sprigman        | Chen    |     Miers    |
+| Del Campo     | Gur-Arieh        | Ma    | Cedarbaum   |
+| Gellis    | Catanzaro      | Bateyko        |    Bietti     |
+| Goodyear  |         |      Wang   |  |
 
 **5:00 to 6:00: Dinner**
 
