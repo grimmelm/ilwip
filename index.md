@@ -11,32 +11,69 @@ All presenters will have a 20 minute block for their presentation and questions 
 
 ## Schedule ##
 
-**8:30 to 9:00: Welcome**
+### 8:30 to 9:00: Welcome ###
 
 Breakfast available in the second floor gallery
 
-**9:00 to 10:30: Session 1**
+### 9:00 to 10:30: Session 1 ###
 
-| Copyright and Patent <br/> Room 215 | AI Regulation I <br/> Room 225 | Cybersecurity and Data <br/> Room 315 | Privacy I <br/> Room 325 |
-|--------------|--------------|--------------|--------------|
-| Sobel        |   Green      | Hoofnagle    | Wang         |
-| LaFrance     |    Coleman     | Ferracane    | Tantratian   |
-| Z. Cooper    |  Forer      | Khan         | Lloyd        |
-| D. Bambauer  |  J. Bambauer  | Hussein      | Huddleston   |
 
-**10:30 to 11:00: Break**
+**Room 215: Copyright and Patent**
+* Ben Sobel, _A Philosophy-of-Language Approach to Bad Derivative-Works Cases_
+* Mary LaFrance, _Enforcing the Digital Audio Transmission Mandate_
+* Zachary	Cooper, _The Innovation Paradox: How New Forms of Media Confound Copyright_
+* Derek Bambauer_, _Behind the Patent Veil_
+
+**Room 225: AI Regulation I**
+* Ben	Green, _The Limits of Auditing Frameworks for Public Sector Algorithms: A Case Study of the Michigan Integrated Data Automated System (MiDAS)_
+* Ronald J.	Coleman, _Dignitary AI Confrontation in the States_
+* Gal	Forer, _Generative AI Regulation in China and California_
+* Angela Zhang, _Advantages of the Disavantages: How Overcapacity Helps China Set Global Standards in Artificial Intelligence_
+
+**Room 315: Cybersecurity and Data**
+* Chris	Hoofnagle, _The EU’s Cybersecurity Framework: what it is, what it means_
+* Martina	Ferracane, _the geopolitics of data flows_
+* Mehtab	Khan, _Access to Datasets_
+* Muhammad	Hussain, _Disjointed by Design: Contradictions of Postcolonial Data Governance in Pakistan_
+
+**Room 325: Privacy I**
+* Anqi	Wang, _It's Not All About Privacy: the Hidden Interests for Data Protection_
+* Attamongkol ("Atta")	Tantratian, _HIPAA Without Border: Regulatory Symbolism in Thailand_
+* Carson 	Lloyd, _Smart Cities Under the Lens: The Mosaic Theory and State Constitutional Privacy_
+* Jennifer	Huddleston, _In Defense of Personalization_
+
+### 10:30 to 11:00: Break ###
 
 Refreshments available in the second floor gallery
 
-**11:00 to 12:45: Session 2**
+### 11:00 to 12:45: Session 2 ###
 
-| Game Theory  <br/> Room 215 | AI Regulation II <br/> Room 225 | Speech and Data <br/> Room 315 | Families and Children <br/> Room 325 |
-|--------------|--------------|--------------|--------------|
-| Kenney        | Silbey        | Penney    | Matwyshyn         |
-| Goldman     | Angel        | Blitz    |  Wei  |
-| Gal    | Shur-Ofry       | Kshirsagar         | Pfefferkorn        |
-| Fidler  | Benthall        | Greenberg      | Manta   |
-| Krishnamurthi  | Zhang        | Jiravuttipong      |    |
+**Room 215: Game Theory**
+
+* Cortelyou	Kenney, _A New Answer To The Game Theory Game “Chicken”_
+* Eric	Goldman, _The Mirror Theory of the Internet_
+* Michal	Gal, _Hub Power and Hub(uses): Power Dynamics in Platform Ecosystems_
+* Mailyn	Fidler, _Internet Fragmentation's Outward Turn_
+* Vivek	Krishnamurthy, _Computing Embassies_
+
+**Room 225: AI Regulation II**
+* Jessica	Silbey, _AI Slop_
+* María P.	Angel, _The Legal Life of Trust:  What Is Lost with “Trustworthy AI”_
+* Michal	Shur-Ofry, _Our Future's Past: AI Governance for SafeguardingC Collective Memory_
+* Sebastian	Benthall, _Multi-stakeholder Governance for AI Fiduciary Duties_
+
+**Room 315: Speech and Data**
+* Marc	Blitz, _XR, AI, and the Doctrinal Distinctiveness of Solitary and Self-Shaping Speech_
+* Mihir	Kshirsagar, _Zoning the Digital Playground: Age-Appropriate Design Codes_
+* Jon	Penney, _The Future of Chilling Effects and How to Stop It_
+* Lila	Greenberg, _The Demand for Bullshit_
+* Gunn	Jiravuttipong, _VARIETIES OF CLOUD CAPITAL: THE LAW AND POLITICAL ECONOMY OF GLOBAL DATA CENTER INVESTMENT_
+
+**Room 325: Families and Children**
+* Andrea	Matwyshyn, _Homicideware_
+* Miranda	Wei, _Combating AI-Enabled Child Sexual Abuse_
+* Irina	Manta, _Swipe Left: How Dating Apps Betray Users and Protect Predators_
+* Riana	Pfefferkorn, _Advanced Persistent Teenagers_
 
 **12:45 to 1:30: Lunch**
 
