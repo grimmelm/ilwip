@@ -48,8 +48,8 @@ Lunch available in the second floor gallery
 |--------------|--------------|--------------|--------------|
 | Roberts        | Badii        | Nielsen    | Grochowski         |
 | Dorsen     | Reinfeld        | Liu    | Adams   |
-| Geddes    | Barocas       | de Alfaro         | Mo        |
-|   | Levine     | Schwartz-Maor      | Monteiro   |
+| Geddes    | Barocas       |   Schwartz-Maor       | Mo        |
+|   | Levine     |     | Monteiro   |
 
 **3:00 to 3:30: Break**
 
