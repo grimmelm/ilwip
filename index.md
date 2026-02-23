@@ -102,7 +102,6 @@ Lunch available in the second floor gallery
 * Rhiannon	Adams, _Remedying Abusive Surveillance_
 * Mateusz 	Grochowski, _Inverse Commodification: Consent as Currency_
 * Yunfan	Mo, _Eroding boundaries? Withering informational self-determination under the GDPR: perspectives from AI model training_
-* Artur Pericles L.	Monteiro, _Democratic Friction_
 
 
 ### 3:00 to 3:30: Break ###
@@ -121,7 +120,7 @@ Refreshments available in the second floor gallery
 * Zachary	Catanzaro, _Generative Simulation_
 * Shira	Gur-Arieh, _Ambiguity Collapse in Legal Contexts_
 * Chris	Sprigman, _Strategic Delegation of Moral Decisions to AI_
-  Angela Zhang, _Advantages of the Disavantages: How Overcapacity Helps China Set Global Standards in Artificial Intelligence_
+* Angela Zhang, _Advantages of the Disavantages: How Overcapacity Helps China Set Global Standards in Artificial Intelligence_
 	
 **Room 315: Empirical Studies**
 * Felix	Chen, _Measuring the Impact of Google AI Overviews and WebGuide on User Search Behavior_
@@ -133,6 +132,8 @@ Refreshments available in the second floor gallery
 * Jonathan	Cedarbaum, _Does Product Liability Offer a Route Around Section 230?_
 * Jess	Miers, _Crisis Machines_
 * Elettra	Bietti, _Imperfect Enforcement in AI Markets_
+* Artur Pericles L.	Monteiro, _Democratic Friction_
+
 
 
 ### 5:00 to 6:00: Dinner ###
