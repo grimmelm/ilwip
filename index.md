@@ -113,7 +113,6 @@ Refreshments available in the second floor gallery
 **Room 215: Intermediaries**
 * Amanda	Reid, _New Digital Divides: How State Regulations Create Digital Exclusion_
 * Agustina	Del Campo, _An alternative to risks and immunity as the only 2 forms of intermediary liability_
-* Cathy	Gellis, _Jawboning without Section 230_
 * Michael	Goodyear, _Protecting the Queer Internet_
 
 **Room 225: AI Theory**
