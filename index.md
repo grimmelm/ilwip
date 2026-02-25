@@ -90,7 +90,6 @@ Lunch available in the second floor gallery
 **Room 225: AI Regulation III**
 * Farzaneh	Badii, _Internet-Enabled AI and the Rewriting of End-User Access_
 * Yuval	Reinfeld, _From Explainability to Accountability: Rethinking Rights in AI-Driven Decisions_
-* Solon	Barocas, _Informal Algorithms: On the Use of Generative AI for High-Stakes Decision Making_
 * David	Levine, _Trade Secrets with Secrets_
 
 **Room 315: NLP**
