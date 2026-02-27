@@ -129,7 +129,6 @@ Refreshments available in the second floor gallery
 **Room 325: AI Liability**
 * Jonathan	Cedarbaum, _Does Product Liability Offer a Route Around Section 230?_
 * Jess	Miers, _Crisis Machines_
-* Elettra	Bietti, _Imperfect Enforcement in AI Markets_
 * Artur Pericles L.	Monteiro, _Democratic Friction_
 
 
