@@ -86,7 +86,6 @@ Lunch available in the second floor gallery
 * Kat	Geddes, _The Inconsentability of Deepfakes_
 
 **Room 225: AI Regulation III**
-* Farzaneh	Badii, _Internet-Enabled AI and the Rewriting of End-User Access_
 * Yuval	Reinfeld, _From Explainability to Accountability: Rethinking Rights in AI-Driven Decisions_
 * David	Levine, _Trade Secrets with Secrets_
 
