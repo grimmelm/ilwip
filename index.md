@@ -85,7 +85,7 @@ Lunch available in the second floor gallery
 **Room 215: People and Publicity**
 * Annie	Dorsen, _TBD_
 * Alex	Roberts, _Litigating Personal Brand:  Intellectual Property & the Construction of Self_
-* Kat	Geddes, _Runaway Replicas_
+* Kat	Geddes, _The Inconsentability of Deepfakes_
 
 **Room 225: AI Regulation III**
 * Farzaneh	Badii, _Internet-Enabled AI and the Rewriting of End-User Access_
