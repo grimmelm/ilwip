@@ -112,7 +112,7 @@ Refreshments available in the second floor gallery
 * Amanda	Reid, _New Digital Divides: How State Regulations Create Digital Exclusion_
 * Agustina	Del Campo, _An alternative to risks and immunity as the only 2 forms of intermediary liability_
 * Michael	Goodyear, _Protecting the Queer Internet_
-* Gunn	Jiravuttipong, _VARIETIES OF CLOUD CAPITAL: THE LAW AND POLITICAL ECONOMY OF GLOBAL DATA CENTER INVESTMENT_
+* Gunn	Jiravuttipong, _Varieties of Cloud Capital: The Law and Political Economy of Global Data Center Investment_
 
 **Room 225: AI Theory**
 * Zachary	Catanzaro, _Generative Simulation_
