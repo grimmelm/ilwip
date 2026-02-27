@@ -47,7 +47,7 @@ Breakfast available in the second floor gallery
 
 Refreshments available in the second floor gallery
 
-### 11:00 to 12:45: Session 2 ###
+### 11:00 to 12:30: Session 2 ###
 
 **Room 215: Game Theory**
 
@@ -55,8 +55,7 @@ Refreshments available in the second floor gallery
 * Eric	Goldman, _The Mirror Theory of the Internet_
 * Michal	Gal, _Hub Power and Hub(uses): Power Dynamics in Platform Ecosystems_
 * Mailyn	Fidler, _Internet Fragmentation's Outward Turn_
-* Vivek	Krishnamurthy, _Computing Embassies_
-
+  
 **Room 225: AI Regulation II**
 * Jessica	Silbey, _AI Slop_
 * María P.	Angel, _The Legal Life of Trust:  What Is Lost with “Trustworthy AI”_
@@ -75,11 +74,11 @@ Refreshments available in the second floor gallery
 * Irina	Manta, _Swipe Left: How Dating Apps Betray Users and Protect Predators_
 * Riana	Pfefferkorn, _Advanced Persistent Teenagers_
 
-### 12:45 to 1:30: Lunch ###
+### 12:30 to 1:30: Lunch ###
 
 Lunch available in the second floor gallery
 
-### 1:30 to 3:00: Session 3 ###
+### 1:30 to 2:45: Session 3 ###
 
 **Room 215: People and Publicity**
 * Annie	Dorsen, _TBD_
@@ -102,7 +101,7 @@ Lunch available in the second floor gallery
 * Yunfan	Mo, _Eroding boundaries? Withering informational self-determination under the GDPR: perspectives from AI model training_
 
 
-### 3:00 to 3:30: Break ###
+### 2:45 to 3:30: Break ###
 
 Refreshments available in the second floor gallery
 
@@ -130,6 +129,8 @@ Refreshments available in the second floor gallery
 * Jonathan	Cedarbaum, _Does Product Liability Offer a Route Around Section 230?_
 * Jess	Miers, _Crisis Machines_
 * Artur Pericles L.	Monteiro, _Democratic Friction_
+*  Vivek Krishnamurthy, _The Sovereign AI Myth_
+
 
 
 
