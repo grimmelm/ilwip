@@ -68,7 +68,6 @@ Refreshments available in the second floor gallery
 * Mihir	Kshirsagar, _Zoning the Digital Playground: Age-Appropriate Design Codes_
 * Jon	Penney, _The Future of Chilling Effects and How to Stop It_
 * Lila	Greenberg, _The Demand for Bullshit_
-* Gunn	Jiravuttipong, _VARIETIES OF CLOUD CAPITAL: THE LAW AND POLITICAL ECONOMY OF GLOBAL DATA CENTER INVESTMENT_
 
 **Room 325: Families and Children**
 * Andrea	Matwyshyn, _Homicideware_
@@ -113,6 +112,7 @@ Refreshments available in the second floor gallery
 * Amanda	Reid, _New Digital Divides: How State Regulations Create Digital Exclusion_
 * Agustina	Del Campo, _An alternative to risks and immunity as the only 2 forms of intermediary liability_
 * Michael	Goodyear, _Protecting the Queer Internet_
+* Gunn	Jiravuttipong, _VARIETIES OF CLOUD CAPITAL: THE LAW AND POLITICAL ECONOMY OF GLOBAL DATA CENTER INVESTMENT_
 
 **Room 225: AI Theory**
 * Zachary	Catanzaro, _Generative Simulation_
