@@ -88,6 +88,7 @@ Lunch available in the second floor gallery
 **Room 225: AI Regulation III**
 * Yuval	Reinfeld, _From Explainability to Accountability: Rethinking Rights in AI-Driven Decisions_
 * David	Levine, _Trade Secrets with Secrets_
+* Peter Yu, _A Law and Policy Matrix for Global AI Norm-Setting_
 
 **Room 315: NLP**
 * Brandon	Liu, _Hallucite: Detecting AI-Generated Legal Citations_
