@@ -114,7 +114,7 @@ Refreshments available in the second floor gallery
 * Gunn	Jiravuttipong, _Varieties of Cloud Capital: The Law and Political Economy of Global Data Center Investment_
 
 **Room 225: AI Theory**
-* Zachary	Catanzaro, _Generative Simulation_
+* Zachary	Catanzaro, _The Dead Law Theory: The Perils of Simulated Simulation_
 * Shira	Gur-Arieh, _Ambiguity Collapse in Legal Contexts_
 * Chris	Sprigman, _Strategic Delegation of Moral Decisions to AI_
 * Angela Zhang, _Advantages of the Disavantages: How Overcapacity Helps China Set Global Standards in Artificial Intelligence_
