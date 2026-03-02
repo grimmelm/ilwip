@@ -97,7 +97,6 @@ Lunch available in the second floor gallery
 
 **Room 325: Privacy II**
 * Rhiannon	Adams, _Remedying Abusive Surveillance_
-* Mateusz 	Grochowski, _Inverse Commodification: Consent as Currency_
 * Yunfan	Mo, _Eroding boundaries? Withering informational self-determination under the GDPR: perspectives from AI model training_
 
 
