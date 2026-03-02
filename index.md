@@ -81,7 +81,7 @@ Lunch available in the second floor gallery
 ### 1:30 to 2:45: Session 3 ###
 
 **Room 215: People and Publicity**
-* Annie	Dorsen, _TBD_
+* Annie	Dorsen, _Preventing Digital Likeness Abuse_
 * Alex	Roberts, _Litigating Personal Brand:  Intellectual Property & the Construction of Self_
 * Kat	Geddes, _The Inconsentability of Deepfakes_
 
