@@ -117,7 +117,7 @@ Refreshments available in the second floor gallery
 * Zachary	Catanzaro, _The Dead Law Theory: The Perils of Simulated Simulation_
 * Shira	Gur-Arieh, _Ambiguity Collapse in Legal Contexts_
 * Chris	Sprigman, _Strategic Delegation of Moral Decisions to AI_
-* Angela Zhang, _Advantages of the Disavantages: How Overcapacity Helps China Set Global Standards in Artificial Intelligence_
+* Angela Zhang, _The Sixth Layer: The Legal Infrastructure for China's Regulation of Physical Artificial Intelligence_
 	
 **Room 315: Empirical Studies**
 * Felix	Chen, _Measuring the Impact of Google AI Overviews and WebGuide on User Search Behavior_
