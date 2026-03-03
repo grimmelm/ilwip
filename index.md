@@ -139,4 +139,10 @@ Dinner available in the second floor gallery
 
 Games and \[REDACTED\] in the second floor gallery.
 
+----
 
+## Sponsors ##
+
+<img src="cornell-tech-logo.png" height="200px"/>
+<img src="cornell-logo.png" height="200px"/>
+<img src="ctrl-alt-logo.png" height="200px"/>
