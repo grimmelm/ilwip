@@ -120,7 +120,6 @@ Refreshments available in the second floor gallery
 	
 **Room 315: Empirical Studies**
 * Felix	Chen, _Measuring the Impact of Google AI Overviews and WebGuide on User Search Behavior_
-* Ada	Wang, _Internet Mass Tort in the Age of AI_
 * Dan	Bateyko, _Hunting Zombies: Scaling Reliable LLM Screening of Unconstitutional Laws_
 * Qin Sky	Ma, _The Dual Impact of AI on Judicial Efficiency_
 
