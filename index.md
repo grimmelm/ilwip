@@ -9,6 +9,8 @@ New York, NY 10044
 
 All presenters will have a 20 minute block for their presentation and questions _combined_. The timekeeper will provide 3-minute and 1-minute warnings for the overall block. The timekeeper will provide 3-minute and 1-minute warnings for the end of a recommended 13-minute presentation time, unless you request otherwise. The end of the recommended presentation time will not be strictly enforced, but the end of the 20-minute block will.
 
+We will provide breakfast, lunch, and dinner, and coffee, tea, and water will be available in the second floor gallery throughout the day. For additional options, the Cafe at Cornell Tech, located immediately across campus way in the Bloomberg Center, serves specialty coffee and other beverages and an assortment of hot and cold breakfast, lunch, and snack items.
+
 ## Schedule ##
 
 ### 8:30 to 9:00: Welcome ###
