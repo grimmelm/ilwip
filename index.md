@@ -37,7 +37,6 @@ Breakfast available in the second floor gallery
 * Chris	Hoofnagle, _The EU’s Cybersecurity Framework: what it is, what it means_
 * Martina	Ferracane, _the geopolitics of data flows_
 * Mehtab	Khan, _Access to Datasets_
-* Muhammad	Hussain, _Disjointed by Design: Contradictions of Postcolonial Data Governance in Pakistan_
 
 **Room 325: Privacy I**
 * Anqi	Wang, _It's Not All About Privacy: the Hidden Interests for Data Protection_
