@@ -89,6 +89,7 @@ Lunch available in the second floor gallery
 **Room 225: AI Regulation III**
 * David	Levine, _Trade Secrets with Secrets_
 * Peter Yu, _A Law and Policy Matrix for Global AI Norm-Setting_
+* Kenny Peng, _From Feeds to Trails_
 
 **Room 315: NLP**
 * Brandon	Liu, _Hallucite: Detecting AI-Generated Legal Citations_
