@@ -29,7 +29,6 @@ Breakfast available in the second floor gallery
 **Room 225: AI Regulation I**
 * Ben	Green, _The Limits of Auditing Frameworks for Public Sector Algorithms: A Case Study of the Michigan Integrated Data Automated System (MiDAS)_
 * Ronald J.	Coleman, _Dignitary AI Confrontation in the States_
-* Gal	Forer, _Generative AI Regulation in China and California_
 * Jane 	Bambauer, _Using LLMs to Score News and Opinion Media Based on Their Past Predictions_
 
 
