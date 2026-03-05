@@ -30,11 +30,15 @@ Breakfast available in the second floor gallery
 * Ben	Green, _The Limits of Auditing Frameworks for Public Sector Algorithms: A Case Study of the Michigan Integrated Data Automated System (MiDAS)_
 * Ronald J.	Coleman, _Dignitary AI Confrontation in the States_
 * Jane 	Bambauer, _Using LLMs to Score News and Opinion Media Based on Their Past Predictions_
+* Michelle du Plessis, _The Moderation Quadrants: Mapping Control, Decision-Making,
+and the Paradox of Decentralized Content Moderation_
 
 
 **Room 315: Cybersecurity and Data**
 * Chris	Hoofnagle, _The EU’s Cybersecurity Framework: what it is, what it means_
-* Martina	Ferracane, _the geopolitics of data flows_
+* Martina	Ferracane, _The Geopolitics of Data Flows_
+* Dani Villardell, _Why "Personal" is not Relative: The
+Technical Pitfalls of SRB v. EDPS_
 * Mehtab	Khan, _Access to Datasets_
 
 **Room 325: Privacy I**
