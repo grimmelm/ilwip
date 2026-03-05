@@ -126,6 +126,7 @@ Refreshments available in the second floor gallery
 * Felix	Chen, _Measuring the Impact of Google AI Overviews and WebGuide on User Search Behavior_
 * Dan	Bateyko, _Hunting Zombies: Scaling Reliable LLM Screening of Unconstitutional Laws_
 * Qin Sky	Ma, _The Dual Impact of AI on Judicial Efficiency_
+* Rebecca Wexler, _"Witness": Compulsory Process at the Founding_
 
 **Room 325: AI Liability**
 * Jonathan	Cedarbaum, _Does Product Liability Offer a Route Around Section 230?_
