@@ -24,7 +24,7 @@ Breakfast available in the second floor gallery
 * Ben Sobel, _A Philosophy-of-Language Approach to Bad Derivative-Works Cases_
 * Mary LaFrance, _Enforcing the Digital Audio Transmission Mandate_
 * Zachary	Cooper, _The Innovation Paradox: How New Forms of Media Confound Copyright_
-* Derek Bambauer_, _Behind the Patent Veil_
+* Derek Bambauer, _Behind the Patent Veil_
 
 **Room 225: AI Regulation I**
 * Ben	Green, _The Limits of Auditing Frameworks for Public Sector Algorithms: A Case Study of the Michigan Integrated Data Automated System (MiDAS)_
@@ -102,6 +102,7 @@ Lunch available in the second floor gallery
 **Room 325: Privacy II**
 * Rhiannon	Adams, _Remedying Abusive Surveillance_
 * Yunfan	Mo, _Eroding boundaries? Withering informational self-determination under the GDPR: perspectives from AI model training_
+* Farzaneh Badiei, _Internet-Enabled AI and the Rewriting of End-User Access_
 
 
 ### 2:45 to 3:30: Break ###
