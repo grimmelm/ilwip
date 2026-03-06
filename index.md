@@ -96,7 +96,6 @@ Lunch available in the second floor gallery
 
 **Room 315: NLP**
 * Brandon	Liu, _Hallucite: Detecting AI-Generated Legal Citations_
-* Aileen	Nielsen, _Distinguishing Statutory Language Diffusion from Policy Diffusion: A Case Study of Recent State Data Privacy Reform_
 * Talia	Schwartz-Maor, _Predicting Successful Online Divorce Negotiations via Text Analysis_
 
 **Room 325: Privacy II**
